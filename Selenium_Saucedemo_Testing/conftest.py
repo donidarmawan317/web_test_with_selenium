@@ -1,9 +1,11 @@
 import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from webdriver.driver_manager import create_chrome_driver
 
 @pytest.fixture
 def driver():
+    driver = create_chrome_driver()
     chrome_options = Options()
 
     prefs = {

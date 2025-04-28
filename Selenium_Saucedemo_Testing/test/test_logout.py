@@ -11,11 +11,23 @@ def test_logout(driver):
     driver.find_element(By.ID, "password").send_keys("secret_sauce")
     driver.find_element(By.ID, "login-button").click()
 
+    # ====== PASSWORD BREACH ALERT HANDLING ======
     try:
-        ok_button = driver.find_element("xpath", "//button[contains(text(), 'OK')]")
+        # Wait for warning container (modify selector based on actual HTML)
+        warning_container = WebDriverWait(driver, 5).until(
+            EC.presence_of_element_located((By.XPATH, "//h3[contains(text(), 'Change your password')]/.."))
+        )
+        
+        # Click either OK button or Remove link
+        ok_button = warning_container.find_element(By.XPATH, ".//button[contains(text(), 'OK')]")
         ok_button.click()
+        
+        # Wait for warning to disappear
+        WebDriverWait(driver, 3).until(
+            EC.invisibility_of_element(warning_container))
+        print("Dismissed password breach warning")
     except:
-        print("No password alert popup, continue...")
+        print("No password alert present, continuing...")
 
 
     # Wait until inventory page
@@ -33,7 +45,6 @@ def test_logout(driver):
     logout_button = WebDriverWait(driver, 10).until(
         EC.element_to_be_clickable((By.ID, "logout_sidebar_link"))
     )
-    logout_button.click()
     logout_button.click()
 
     # Confirm back to login
