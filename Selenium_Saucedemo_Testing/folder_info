@@ -1,1 +1,16 @@
-Folder that contain code for testing Saucedemo Website
+# SauceDemo Web Testing Suite
+
+Automated tests for SauceDemo e-commerce website using Selenium and pytest.
+
+## Features
+- User authentication (login/logout)
+- Inventory management
+- Shopping cart operations
+- Checkout process
+- Comprehensive logging
+
+## Installation
+```bash
+git clone https://github.com/your-username/Selenium_Saucedemo_Testing.git
+cd Selenium_Saucedemo_Testing
+pip install -r requirements.txt

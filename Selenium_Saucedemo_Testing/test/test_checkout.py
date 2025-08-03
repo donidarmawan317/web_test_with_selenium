@@ -103,3 +103,4 @@ def test_full_checkout(driver):
     assert driver.current_url == "https://www.saucedemo.com/inventory.html", "Did not return to inventory!"
 
     print("✅ Test Passed: Full checkout flow completed successfully.")
+

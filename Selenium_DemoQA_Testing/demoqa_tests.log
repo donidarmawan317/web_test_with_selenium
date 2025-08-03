@@ -1,0 +1,1037 @@
+2025-07-31 08:27:15,333 - INFO - xdist worker is: gw4
+2025-07-31 08:27:15,334 - INFO - xdist worker is: gw5
+2025-07-31 08:27:15,334 - INFO - xdist worker is: gw9
+2025-07-31 08:27:15,333 - INFO - xdist worker is: gw0
+2025-07-31 08:27:15,333 - INFO - xdist worker is: gw7
+2025-07-31 08:27:15,334 - INFO - ====== WebDriver manag2025-07-31 08:27:15,334 - INFO - xdist worker is: gw6
+
+2025-07-31 08:27:15,334 - INFO - ====== WebDriver manager ======
+2025-07-31 08:27:15,334 - INFO - ====== WebDriver manager ======
+2025-07-31 08:27:15,334 - INFO - ====== WebDriver manager ======
+2025-07-31 08:27:15,334 - INFO - ====== WebDriver manager ======
+2025-07-31 08:27:15,335 - INFO - ====== WebDriver manager ======
+2025-07-31 08:27:15,335 - INFO - ====== WebDriver manager ======
+2025-07-31 08:27:15,335 - INFO - xdist worker is: gw10
+2025-07-31 08:27:15,335 - INFO - xdist worker is: gw3
+2025-07-31 08:27:15,335 - INFO - xdist worker is: gw1
+2025-07-31 08:27:15,335 - INFO - ====== WebDriver manager ======
+2025-07-31 08:27:15,335 - INFO - ====== WebDriver manager ======
+2025-07-31 08:27:15,336 - INFO - ====== WebDriver manager ======
+2025-07-31 08:27:15,346 - INFO - xdist worker is: gw8
+2025-07-31 08:27:15,349 - INFO - ====== WebDriver manager ======
+2025-07-31 08:27:18,142 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,152 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,166 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,171 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,172 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,175 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,216 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,227 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,234 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,245 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,249 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,278 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,607 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,610 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,621 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,636 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,638 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,646 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,654 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,660 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,663 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,666 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,666 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,674 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,741 - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-31 08:27:18,741 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,743 - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-31 08:27:18,743 - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-31 08:27:18,743 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,743 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,745 - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-31 08:27:18,745 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,751 - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-31 08:27:18,751 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,756 - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-31 08:27:18,756 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,761 - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-31 08:27:18,761 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,774 - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-31 08:27:18,774 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,776 - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-31 08:27:18,777 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,790 - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-31 08:27:18,790 - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-31 08:27:18,791 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,791 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:18,800 - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-31 08:27:18,800 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:19,173 - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-31 08:27:19,177 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:19,181 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:19,238 - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-31 08:27:19,244 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:19,245 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:19,281 - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-31 08:27:19,282 - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-31 08:27:19,287 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:19,287 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:19,287 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:19,475 - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-31 08:27:19,480 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:19,480 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:19,497 - INFO - Driver downloading response is 200
+2025-07-31 08:27:19,573 - INFO - Driver downloading response is 200
+2025-07-31 08:27:19,622 - INFO - Driver downloading response is 200
+2025-07-31 08:27:19,663 - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-31 08:27:19,666 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:19,667 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:19,694 - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-31 08:27:19,697 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:19,697 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:19,754 - INFO - Driver downloading response is 200
+2025-07-31 08:27:19,912 - INFO - Driver downloading response is 200
+2025-07-31 08:27:20,090 - INFO - Driver downloading response is 200
+2025-07-31 08:27:20,595 - INFO - Driver downloading response is 200
+2025-07-31 08:27:21,711 - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-31 08:27:21,715 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:21,719 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:21,863 - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-31 08:27:21,867 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:21,868 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:21,893 - INFO - Driver downloading response is 200
+2025-07-31 08:27:22,026 - INFO - Driver downloading response is 200
+2025-07-31 08:27:24,388 - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-31 08:27:24,393 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:24,397 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:24,573 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:24,859 - INFO - Driver downloading response is 200
+2025-07-31 08:27:25,421 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-31 08:27:29,860 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:31,727 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw2\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-31 08:27:35,844 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:37,178 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw7\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-31 08:27:38,736 - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-31 08:27:38,740 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:38,741 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:27:38,869 - INFO - Driver downloading response is 200
+2025-07-31 08:27:48,322 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:48,810 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw9\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-31 08:27:53,549 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:54,176 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw8\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-31 08:27:56,081 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:56,716 - ERROR - Broken Links failed: Message: timeout: Timed out receiving message from renderer: 27.281
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0xe4ba83+63395]
+	GetHandleVerifier [0x0xe4bac4+63460]
+	(No symbol) [0x0xc92113]
+	(No symbol) [0x0xc82e6b]
+	(No symbol) [0x0xc82ba1]
+	(No symbol) [0x0xc80b44]
+	(No symbol) [0x0xc8160d]
+	(No symbol) [0x0xc8dda9]
+	(No symbol) [0x0xc9f2b5]
+	(No symbol) [0x0xca4cb6]
+	(No symbol) [0x0xc81c4d]
+	(No symbol) [0x0xc9f019]
+	(No symbol) [0x0xd20a9c]
+	(No symbol) [0x0xcff1a6]
+	(No symbol) [0x0xcce7b2]
+	(No symbol) [0x0xccf654]
+	GetHandleVerifier [0x0x10c8883+2672035]
+	GetHandleVerifier [0x0x10c3cba+2652634]
+	GetHandleVerifier [0x0xe72bca+223466]
+	GetHandleVerifier [0x0xe62cb8+158168]
+	GetHandleVerifier [0x0xe6978d+185517]
+	GetHandleVerifier [0x0xe53b78+96408]
+	GetHandleVerifier [0x0xe53d02+96802]
+	GetHandleVerifier [0x0xe3e90a+9770]
+	BaseThreadInitThunk [0x0x77125d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-07-31 08:27:56,897 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw1\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-31 08:27:57,536 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:57,808 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw11\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-31 08:27:59,397 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:27:59,949 - INFO - xdist worker is: gw9
+2025-07-31 08:27:59,950 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:00,017 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:00,474 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw10\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-31 08:28:01,234 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:01,286 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw6\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-31 08:28:01,335 - INFO - xdist worker is: gw0
+2025-07-31 08:28:01,335 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:01,748 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:01,995 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:02,781 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:03,018 - ERROR - Test Button Interactions failed: Message: timeout: Timed out receiving message from renderer: 27.281
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0xbcba83+63395]
+	GetHandleVerifier [0x0xbcbac4+63460]
+	(No symbol) [0x0xa12113]
+	(No symbol) [0x0xa02e6b]
+	(No symbol) [0x0xa02ba1]
+	(No symbol) [0x0xa00b44]
+	(No symbol) [0x0xa0160d]
+	(No symbol) [0x0xa0dda9]
+	(No symbol) [0x0xa1f2b5]
+	(No symbol) [0x0xa24cb6]
+	(No symbol) [0x0xa01c4d]
+	(No symbol) [0x0xa1f019]
+	(No symbol) [0x0xaa0a9c]
+	(No symbol) [0x0xa7f1a6]
+	(No symbol) [0x0xa4e7b2]
+	(No symbol) [0x0xa4f654]
+	GetHandleVerifier [0x0xe48883+2672035]
+	GetHandleVerifier [0x0xe43cba+2652634]
+	GetHandleVerifier [0x0xbf2bca+223466]
+	GetHandleVerifier [0x0xbe2cb8+158168]
+	GetHandleVerifier [0x0xbe978d+185517]
+	GetHandleVerifier [0x0xbd3b78+96408]
+	GetHandleVerifier [0x0xbd3d02+96802]
+	GetHandleVerifier [0x0xbbe90a+9770]
+	BaseThreadInitThunk [0x0x77125d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-07-31 08:28:03,020 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw4\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-31 08:28:03,799 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:05,422 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:05,664 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw3\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-31 08:28:07,593 - INFO - Driver [C:\Users\Doni\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:07,706 - INFO - xdist worker is: gw2
+2025-07-31 08:28:07,706 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:09,428 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:10,039 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:11,405 - INFO - xdist worker is: gw11
+2025-07-31 08:28:11,405 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:12,044 - INFO - Driver [C:\Users\Doni\.wdm\gw2\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:13,197 - INFO - xdist worker is: gw10
+2025-07-31 08:28:13,197 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:13,417 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:13,527 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:13,914 - ERROR - Simple Links failed: 'SUCCESS'
+2025-07-31 08:28:14,030 - INFO - Driver [C:\Users\Doni\.wdm\gw11\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:14,330 - INFO - xdist worker is: gw7
+2025-07-31 08:28:14,331 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:14,961 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:15,087 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:15,179 - INFO - Driver [C:\Users\Doni\.wdm\gw10\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:16,652 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:17,327 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:18,719 - INFO - xdist worker is: gw8
+2025-07-31 08:28:18,720 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:19,185 - INFO - Driver [C:\Users\Doni\.wdm\gw7\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:20,445 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:22,580 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:23,092 - INFO - Driver [C:\Users\Doni\.wdm\gw8\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:25,259 - INFO - xdist worker is: gw4
+2025-07-31 08:28:25,260 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:25,597 - INFO - xdist worker is: gw1
+2025-07-31 08:28:25,597 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:26,630 - ERROR - Error checking http://the-internet.herokuapp.com/status_codes/500: assert 500 < 400
+ +  where 500 = <Response [500]>.status_code
+2025-07-31 08:28:27,447 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:27,533 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:27,606 - ERROR - Checkbox Selection failed: Desktop not found in results
+assert 'Desktop' in 'You have selected :\ndesktop\nnotes\ncommands'
+ +  where 'You have selected :\ndesktop\nnotes\ncommands' = <selenium.webdriver.remote.webelement.WebElement (session="6082bc5966b6c76a42877b99432436e1", element="f.4DBAD3FE210260E3FB6027AE98D69028.d.E93815437807E7201B651C0F65C31606.e.37")>.text
+2025-07-31 08:28:28,185 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:28,306 - INFO - Driver [C:\Users\Doni\.wdm\gw4\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:28,630 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:28,837 - INFO - Driver [C:\Users\Doni\.wdm\gw1\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:29,356 - INFO - xdist worker is: gw0
+2025-07-31 08:28:29,357 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:31,064 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:32,289 - INFO - xdist worker is: gw3
+2025-07-31 08:28:32,290 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:32,564 - ERROR - Simple Links failed: 'SUCCESS'
+2025-07-31 08:28:32,942 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:33,054 - INFO - Driver [C:\Users\Doni\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:33,587 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:34,581 - INFO - Driver [C:\Users\Doni\.wdm\gw9\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:34,589 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:35,190 - INFO - xdist worker is: gw6
+2025-07-31 08:28:35,190 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:36,828 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:37,336 - INFO - Driver [C:\Users\Doni\.wdm\gw3\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:37,953 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:38,119 - INFO - Driver [C:\Users\Doni\.wdm\gw6\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:40,069 - ERROR - Test Button Interactions failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='Click Me' and not(@id)]"}
+  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xbcba83+63395]
+	GetHandleVerifier [0x0xbcbac4+63460]
+	(No symbol) [0x0xa12113]
+	(No symbol) [0x0xa5a85e]
+	(No symbol) [0x0xa5abfb]
+	(No symbol) [0x0xaa2f92]
+	(No symbol) [0x0xa7f3f4]
+	(No symbol) [0x0xaa07ba]
+	(No symbol) [0x0xa7f1a6]
+	(No symbol) [0x0xa4e7b2]
+	(No symbol) [0x0xa4f654]
+	GetHandleVerifier [0x0xe48883+2672035]
+	GetHandleVerifier [0x0xe43cba+2652634]
+	GetHandleVerifier [0x0xbf2bca+223466]
+	GetHandleVerifier [0x0xbe2cb8+158168]
+	GetHandleVerifier [0x0xbe978d+185517]
+	GetHandleVerifier [0x0xbd3b78+96408]
+	GetHandleVerifier [0x0xbd3d02+96802]
+	GetHandleVerifier [0x0xbbe90a+9770]
+	BaseThreadInitThunk [0x0x77125d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-07-31 08:28:40,091 - ERROR - Test Textbox Submission failed: assert 'Name:darma wan' in 'Name:Darma wan\nEmail:darmawan@example.com\nCurrent Address :Jl. Raya No. 1, Jakarta Utara\nPermananet Address :Jl. Raya No. 2, Jakarta Timur'
+2025-07-31 08:28:42,260 - INFO - xdist worker is: gw4
+2025-07-31 08:28:42,260 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:42,444 - INFO - xdist worker is: gw2
+2025-07-31 08:28:42,445 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:43,550 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:43,750 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:44,091 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:44,491 - INFO - xdist worker is: gw0
+2025-07-31 08:28:44,491 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:44,726 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:45,566 - INFO - Driver [C:\Users\Doni\.wdm\gw4\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:45,772 - INFO - Driver [C:\Users\Doni\.wdm\gw2\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:45,864 - ERROR - Checkbox Selection failed: Desktop not found in results
+assert 'Desktop' in 'You have selected :\ndesktop\nnotes\ncommands'
+ +  where 'You have selected :\ndesktop\nnotes\ncommands' = <selenium.webdriver.remote.webelement.WebElement (session="3c0b544552c2e80cb826605b67e12679", element="f.581748F181AE3B7F656AF4FC689C3500.d.1A1079AE0A34F845E49ADC5181EFE3BF.e.46")>.text
+2025-07-31 08:28:46,123 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:46,653 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:47,318 - INFO - Driver [C:\Users\Doni\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:48,500 - INFO - xdist worker is: gw3
+2025-07-31 08:28:48,501 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:49,788 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:50,925 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:52,495 - INFO - Driver [C:\Users\Doni\.wdm\gw3\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:55,435 - ERROR - Test Textbox Submission failed: assert 'Name:darma wan' in 'Name:Darma wan\nEmail:darmawan@example.com\nCurrent Address :Jl. Raya No. 1, Jakarta Utara\nPermananet Address :Jl. Raya No. 2, Jakarta Timur'
+2025-07-31 08:28:56,604 - INFO - xdist worker is: gw1
+2025-07-31 08:28:56,604 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:57,761 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:58,338 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:58,436 - INFO - xdist worker is: gw4
+2025-07-31 08:28:58,436 - INFO - ====== WebDriver manager ======
+2025-07-31 08:28:58,444 - INFO - Driver [C:\Users\Doni\.wdm\gw1\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:28:59,677 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:59,797 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:28:59,915 - INFO - Driver [C:\Users\Doni\.wdm\gw4\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:29:08,197 - INFO - xdist worker is: gw1
+2025-07-31 08:29:08,197 - INFO - ====== WebDriver manager ======
+2025-07-31 08:29:09,461 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:29:10,064 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:29:10,708 - INFO - Driver [C:\Users\Doni\.wdm\gw1\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:29:22,838 - ERROR - File Download failed: Message: 
+
+2025-07-31 08:29:28,174 - INFO - xdist worker is: gw2
+2025-07-31 08:29:28,175 - INFO - ====== WebDriver manager ======
+2025-07-31 08:29:29,370 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:29:29,497 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:29:29,614 - INFO - Driver [C:\Users\Doni\.wdm\gw2\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 08:30:05,091 - ERROR - File Download failed: Message: 
+
+2025-07-31 08:31:57,121 - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-31 08:31:57,126 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:31:57,129 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:31:57,239 - INFO - Driver downloading response is 200
+2025-07-31 08:32:14,272 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:32:14,592 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw5\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-31 08:32:17,256 - INFO - xdist worker is: gw12
+2025-07-31 08:32:17,257 - INFO - ====== WebDriver manager ======
+2025-07-31 08:32:18,349 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:32:18,471 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:32:18,590 - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-31 08:32:18,590 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:32:18,880 - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-31 08:32:18,884 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:32:18,887 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-31 08:32:19,224 - INFO - Driver downloading response is 200
+2025-07-31 08:32:42,984 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:32:43,291 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw12\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-31 08:32:56,637 - INFO - xdist worker is: gw12
+2025-07-31 08:32:56,637 - INFO - ====== WebDriver manager ======
+2025-07-31 08:32:57,835 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:32:57,971 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 08:32:58,089 - INFO - Driver [C:\Users\Doni\.wdm\gw12\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:41:47,738 - INFO - xdist worker is: gw9
+2025-07-31 21:41:47,739 - INFO - xdist worker is: gw8
+2025-07-31 21:41:47,740 - INFO - ====== WebDriver manager ======
+2025-07-31 21:41:47,740 - INFO - xdist worker is: gw10
+2025-07-31 21:41:47,740 - INFO - ====== WebDriver manager ======
+2025-07-31 21:41:47,740 - INFO - ====== WebDriver manager ======
+2025-07-31 21:41:47,741 - INFO - xdist worker is: gw11
+2025-07-31 21:41:47,741 - INFO - ====== WebDriver manager ======
+2025-07-31 21:41:47,741 - INFO - xdist worker is: gw7
+2025-07-31 21:41:47,742 - INFO - ====== WebDriver manager ======
+2025-07-31 21:41:47,743 - INFO - xdist worker is: gw6
+2025-07-31 21:41:47,743 - INFO - ====== WebDriver manager ======
+2025-07-31 21:41:47,743 - INFO - xdist worker is: gw3
+2025-07-31 21:41:47,744 - INFO - ====== WebDriver manager ======
+2025-07-31 21:41:47,747 - INFO - ====== WebDriver manager ======
+2025-07-31 21:41:47,751 - INFO - ====== WebDriver manager ======
+2025-07-31 21:41:50,704 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:50,730 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:50,745 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:50,746 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:50,757 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:50,758 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:50,777 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:50,819 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:50,819 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:50,819 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:50,826 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:51,148 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:51,160 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:51,189 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:51,189 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:51,189 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:51,194 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:51,198 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:51,198 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:51,202 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:51,206 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:51,212 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:51,212 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:41:51,275 - INFO - Driver [C:\Users\Doni\.wdm\gw7\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:41:51,276 - INFO - Driver [C:\Users\Doni\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:41:51,283 - INFO - Driver [C:\Users\Doni\.wdm\gw8\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:41:51,292 - INFO - Driver [C:\Users\Doni\.wdm\gw3\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:41:51,308 - INFO - Driver [C:\Users\Doni\.wdm\gw4\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:41:51,310 - INFO - Driver [C:\Users\Doni\.wdm\gw9\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:41:51,318 - INFO - Driver [C:\Users\Doni\.wdm\gw2\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:41:51,330 - INFO - Driver [C:\Users\Doni\.wdm\gw5\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:41:51,356 - INFO - Driver [C:\Users\Doni\.wdm\gw1\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:41:51,384 - INFO - Driver [C:\Users\Doni\.wdm\gw11\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:41:51,460 - INFO - Driver [C:\Users\Doni\.wdm\gw6\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:41:51,470 - INFO - Driver [C:\Users\Doni\.wdm\gw10\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:14,020 - INFO - xdist worker is: gw6
+2025-07-31 21:42:14,021 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:15,912 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:17,939 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:18,261 - INFO - Driver [C:\Users\Doni\.wdm\gw6\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:20,683 - ERROR - API Links failed: assert '204' in 'Link has responded with staus 201 and status text Created'
+ +  where '204' = str(204)
+ +  and   'Link has responded with staus 201 and status text Created' = <selenium.webdriver.remote.webelement.WebElement (session="054721fb123a98014f62fbf529131726", element="f.E9FB3798DDD67B6BF07A98870A521953.d.BEC475C1828A1A0262CCF66BF52F5D35.e.13")>.text
+2025-07-31 21:42:21,069 - ERROR - Button Interactions failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="rightClickMessage"]"}
+  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x69ba83+63395]
+	GetHandleVerifier [0x0x69bac4+63460]
+	(No symbol) [0x0x4e2113]
+	(No symbol) [0x0x52a85e]
+	(No symbol) [0x0x52abfb]
+	(No symbol) [0x0x572f92]
+	(No symbol) [0x0x54f3f4]
+	(No symbol) [0x0x5707ba]
+	(No symbol) [0x0x54f1a6]
+	(No symbol) [0x0x51e7b2]
+	(No symbol) [0x0x51f654]
+	GetHandleVerifier [0x0x918883+2672035]
+	GetHandleVerifier [0x0x913cba+2652634]
+	GetHandleVerifier [0x0x6c2bca+223466]
+	GetHandleVerifier [0x0x6b2cb8+158168]
+	GetHandleVerifier [0x0x6b978d+185517]
+	GetHandleVerifier [0x0x6a3b78+96408]
+	GetHandleVerifier [0x0x6a3d02+96802]
+	GetHandleVerifier [0x0x68e90a+9770]
+	BaseThreadInitThunk [0x0x77125d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-07-31 21:42:21,252 - ERROR - Checkbox Selection failed: assert 'workspace' in 'you have selected :\ndesktop\nnotes\ncommands\noffice\npublic\nprivate\nclassified\ngeneral'
+ +  where 'workspace' = <built-in method lower of str object at 0x000002BB20D9A830>()
+ +    where <built-in method lower of str object at 0x000002BB20D9A830> = 'Workspace'.lower
+ +  and   'you have selected :\ndesktop\nnotes\ncommands\noffice\npublic\nprivate\nclassified\ngeneral' = <built-in method lower of str object at 0x000002BB1F31A5B0>()
+ +    where <built-in method lower of str object at 0x000002BB1F31A5B0> = 'You have selected :\ndesktop\nnotes\ncommands\noffice\npublic\nprivate\nclassified\ngeneral'.lower
+ +      where 'You have selected :\ndesktop\nnotes\ncommands\noffice\npublic\nprivate\nclassified\ngeneral' = <selenium.webdriver.remote.webelement.WebElement (session="331626ba13e85fa58db7d9840687720c", element="f.DF45BA31E1896683383C4B1537AD277C.d.9DCDB53BFF880D85FA9CAD37E7E6D7A9.e.38")>.text
+2025-07-31 21:42:24,814 - ERROR - Radio Button Selection failed: Message: timeout: Timed out receiving message from renderer: 27.658
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0x66ba83+63395]
+	GetHandleVerifier [0x0x66bac4+63460]
+	(No symbol) [0x0x4b2113]
+	(No symbol) [0x0x4a2e6b]
+	(No symbol) [0x0x4a2ba1]
+	(No symbol) [0x0x4a0b44]
+	(No symbol) [0x0x4a160d]
+	(No symbol) [0x0x4adda9]
+	(No symbol) [0x0x4bf2b5]
+	(No symbol) [0x0x4c4cb6]
+	(No symbol) [0x0x4a1c4d]
+	(No symbol) [0x0x4bf019]
+	(No symbol) [0x0x540a9c]
+	(No symbol) [0x0x51f1a6]
+	(No symbol) [0x0x4ee7b2]
+	(No symbol) [0x0x4ef654]
+	GetHandleVerifier [0x0x8e8883+2672035]
+	GetHandleVerifier [0x0x8e3cba+2652634]
+	GetHandleVerifier [0x0x692bca+223466]
+	GetHandleVerifier [0x0x682cb8+158168]
+	GetHandleVerifier [0x0x68978d+185517]
+	GetHandleVerifier [0x0x673b78+96408]
+	GetHandleVerifier [0x0x673d02+96802]
+	GetHandleVerifier [0x0x65e90a+9770]
+	BaseThreadInitThunk [0x0x77125d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-07-31 21:42:25,563 - INFO - xdist worker is: gw9
+2025-07-31 21:42:25,564 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:25,934 - INFO - xdist worker is: gw2
+2025-07-31 21:42:25,934 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:26,043 - INFO - xdist worker is: gw3
+2025-07-31 21:42:26,043 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:27,214 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:27,598 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:27,684 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:28,101 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:28,141 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:28,143 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:28,470 - INFO - Driver [C:\Users\Doni\.wdm\gw9\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:28,498 - INFO - Driver [C:\Users\Doni\.wdm\gw2\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:28,508 - INFO - Driver [C:\Users\Doni\.wdm\gw3\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:31,064 - INFO - xdist worker is: gw10
+2025-07-31 21:42:31,065 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:31,798 - INFO - xdist worker is: gw5
+2025-07-31 21:42:31,798 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:32,962 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:33,512 - INFO - xdist worker is: gw7
+2025-07-31 21:42:33,512 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:33,544 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:33,796 - ERROR - Error checking http://the-internet.herokuapp.com/status_codes/500: assert 500 < 400
+ +  where 500 = <Response [500]>.status_code
+2025-07-31 21:42:34,020 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:34,224 - ERROR - Partial Selection failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x82ba83+63395]
+	GetHandleVerifier [0x0x82bac4+63460]
+	(No symbol) [0x0x672113]
+	(No symbol) [0x0x6ba85e]
+	(No symbol) [0x0x6babfb]
+	(No symbol) [0x0x702f92]
+	(No symbol) [0x0x6df3f4]
+	(No symbol) [0x0x7007ba]
+	(No symbol) [0x0x6df1a6]
+	(No symbol) [0x0x6ae7b2]
+	(No symbol) [0x0x6af654]
+	GetHandleVerifier [0x0xaa8883+2672035]
+	GetHandleVerifier [0x0xaa3cba+2652634]
+	GetHandleVerifier [0x0x852bca+223466]
+	GetHandleVerifier [0x0x842cb8+158168]
+	GetHandleVerifier [0x0x84978d+185517]
+	GetHandleVerifier [0x0x833b78+96408]
+	GetHandleVerifier [0x0x833d02+96802]
+	GetHandleVerifier [0x0x81e90a+9770]
+	BaseThreadInitThunk [0x0x77125d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-07-31 21:42:34,827 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:34,856 - INFO - xdist worker is: gw1
+2025-07-31 21:42:34,857 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:35,261 - INFO - Driver [C:\Users\Doni\.wdm\gw10\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:35,272 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:35,306 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:35,976 - INFO - Driver [C:\Users\Doni\.wdm\gw5\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:36,234 - INFO - xdist worker is: gw0
+2025-07-31 21:42:36,235 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:36,250 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:36,582 - INFO - Driver [C:\Users\Doni\.wdm\gw7\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:37,414 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:38,080 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:38,241 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:38,632 - ERROR - API Links failed: assert '204' in 'Link has responded with staus 201 and status text Created'
+ +  where '204' = str(204)
+ +  and   'Link has responded with staus 201 and status text Created' = <selenium.webdriver.remote.webelement.WebElement (session="1494949b4a4eb4c46ddf5fadc72eec34", element="f.75FBA26CD26A6ADD8F5B8C1DC2AEAB71.d.30561C384B5D69CC4580B4F8EF8DBE60.e.15")>.text
+2025-07-31 21:42:38,858 - INFO - xdist worker is: gw4
+2025-07-31 21:42:38,859 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:38,882 - INFO - Driver [C:\Users\Doni\.wdm\gw1\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:39,027 - ERROR - Checkbox Selection failed: assert 'workspace' in 'you have selected :\ndesktop\nnotes\ncommands\noffice\npublic\nprivate\nclassified\ngeneral'
+ +  where 'workspace' = <built-in method lower of str object at 0x000002BB20D9A830>()
+ +    where <built-in method lower of str object at 0x000002BB20D9A830> = 'Workspace'.lower
+ +  and   'you have selected :\ndesktop\nnotes\ncommands\noffice\npublic\nprivate\nclassified\ngeneral' = <built-in method lower of str object at 0x000002BB212302B0>()
+ +    where <built-in method lower of str object at 0x000002BB212302B0> = 'You have selected :\ndesktop\nnotes\ncommands\noffice\npublic\nprivate\nclassified\ngeneral'.lower
+ +      where 'You have selected :\ndesktop\nnotes\ncommands\noffice\npublic\nprivate\nclassified\ngeneral' = <selenium.webdriver.remote.webelement.WebElement (session="52921f47b8759e550038b6ae3227721b", element="f.6508366E0900784C39A38D46EAE2C2F3.d.18BD32876C825900AE3F6042AF056A7A.e.40")>.text
+2025-07-31 21:42:39,274 - INFO - Driver [C:\Users\Doni\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:40,679 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:40,794 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:41,459 - INFO - xdist worker is: gw3
+2025-07-31 21:42:41,459 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:41,741 - INFO - Driver [C:\Users\Doni\.wdm\gw4\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:43,081 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:43,138 - ERROR - Button Interactions failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="doubleClickMessage"]"}
+  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x69ba83+63395]
+	GetHandleVerifier [0x0x69bac4+63460]
+	(No symbol) [0x0x4e2113]
+	(No symbol) [0x0x52a85e]
+	(No symbol) [0x0x52abfb]
+	(No symbol) [0x0x572f92]
+	(No symbol) [0x0x54f3f4]
+	(No symbol) [0x0x5707ba]
+	(No symbol) [0x0x54f1a6]
+	(No symbol) [0x0x51e7b2]
+	(No symbol) [0x0x51f654]
+	GetHandleVerifier [0x0x918883+2672035]
+	GetHandleVerifier [0x0x913cba+2652634]
+	GetHandleVerifier [0x0x6c2bca+223466]
+	GetHandleVerifier [0x0x6b2cb8+158168]
+	GetHandleVerifier [0x0x6b978d+185517]
+	GetHandleVerifier [0x0x6a3b78+96408]
+	GetHandleVerifier [0x0x6a3d02+96802]
+	GetHandleVerifier [0x0x68e90a+9770]
+	BaseThreadInitThunk [0x0x77125d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-07-31 21:42:43,748 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:44,747 - INFO - Driver [C:\Users\Doni\.wdm\gw3\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:45,552 - INFO - xdist worker is: gw2
+2025-07-31 21:42:45,552 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:46,876 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:47,488 - ERROR - Test Email Validation failed: assert 'field-error' in 'mt-2 row'
+ +  where 'mt-2 row' = get_attribute('class')
+ +    where get_attribute = <selenium.webdriver.remote.webelement.WebElement (session="c3650d35f057cc4bbb24c6899ecd4391", element="f.DF3F1BDE1C78C87EC057C2A23FAC01BA.d.E33045DDDEA564709842F03D1022EAD7.e.19")>.get_attribute
+2025-07-31 21:42:47,862 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:49,583 - INFO - Driver [C:\Users\Doni\.wdm\gw2\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:51,893 - INFO - xdist worker is: gw5
+2025-07-31 21:42:51,894 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:52,156 - INFO - xdist worker is: gw1
+2025-07-31 21:42:52,157 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:53,282 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:53,559 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:54,028 - ERROR - Test Textbox Submission failed: assert 'Name:darma wan' in 'Name:Darma wan\nEmail:darmawan@example.com\nCurrent Address :Jl. Raya No. 1, Jakarta Utara\nPermananet Address :Jl. Raya No. 2, Jakarta Timur'
+2025-07-31 21:42:54,290 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:55,012 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:42:55,159 - INFO - Driver [C:\Users\Doni\.wdm\gw5\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:55,168 - INFO - Driver [C:\Users\Doni\.wdm\gw1\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:42:58,509 - INFO - xdist worker is: gw0
+2025-07-31 21:42:58,510 - INFO - ====== WebDriver manager ======
+2025-07-31 21:42:59,808 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:43:00,301 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:43:00,961 - ERROR - Partial Selection failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x82ba83+63395]
+	GetHandleVerifier [0x0x82bac4+63460]
+	(No symbol) [0x0x672113]
+	(No symbol) [0x0x6ba85e]
+	(No symbol) [0x0x6babfb]
+	(No symbol) [0x0x702f92]
+	(No symbol) [0x0x6df3f4]
+	(No symbol) [0x0x7007ba]
+	(No symbol) [0x0x6df1a6]
+	(No symbol) [0x0x6ae7b2]
+	(No symbol) [0x0x6af654]
+	GetHandleVerifier [0x0xaa8883+2672035]
+	GetHandleVerifier [0x0xaa3cba+2652634]
+	GetHandleVerifier [0x0x852bca+223466]
+	GetHandleVerifier [0x0x842cb8+158168]
+	GetHandleVerifier [0x0x84978d+185517]
+	GetHandleVerifier [0x0x833b78+96408]
+	GetHandleVerifier [0x0x833d02+96802]
+	GetHandleVerifier [0x0x81e90a+9770]
+	BaseThreadInitThunk [0x0x77125d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-07-31 21:43:01,070 - INFO - Driver [C:\Users\Doni\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:43:02,840 - ERROR - Test Email Validation failed: assert 'field-error' in 'mt-2 row'
+ +  where 'mt-2 row' = get_attribute('class')
+ +    where get_attribute = <selenium.webdriver.remote.webelement.WebElement (session="a6cb1982c4c7ea7febc05e0b571d30fe", element="f.78C2ABA46E71FEA0F790AF243F6DE06C.d.9E6EB7AB9F3E01E2A7316BB2949EAE5F.e.19")>.get_attribute
+2025-07-31 21:43:03,400 - INFO - xdist worker is: gw4
+2025-07-31 21:43:03,400 - INFO - ====== WebDriver manager ======
+2025-07-31 21:43:04,914 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:43:05,046 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:43:05,167 - INFO - Driver [C:\Users\Doni\.wdm\gw4\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:43:07,717 - ERROR - File Download failed: File not downloaded
+2025-07-31 21:43:09,313 - ERROR - Test Textbox Submission failed: assert 'Name:darma wan' in 'Name:Darma wan\nEmail:darmawan@example.com\nCurrent Address :Jl. Raya No. 1, Jakarta Utara\nPermananet Address :Jl. Raya No. 2, Jakarta Timur'
+2025-07-31 21:43:12,133 - INFO - xdist worker is: gw2
+2025-07-31 21:43:12,134 - INFO - ====== WebDriver manager ======
+2025-07-31 21:43:13,702 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:43:13,860 - ERROR - Add New Record failed: 'SUCCESS'
+2025-07-31 21:43:13,881 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:43:14,052 - INFO - Driver [C:\Users\Doni\.wdm\gw2\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:43:18,170 - INFO - xdist worker is: gw4
+2025-07-31 21:43:18,170 - INFO - ====== WebDriver manager ======
+2025-07-31 21:43:19,483 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:43:19,640 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-31 21:43:19,770 - INFO - Driver [C:\Users\Doni\.wdm\gw4\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 21:43:29,482 - ERROR - Add New Record failed: 'SUCCESS'
+2025-07-31 21:43:32,018 - ERROR - File Download failed: File not downloaded
+2025-08-03 13:01:14,231 - INFO - xdist worker is: gw11
+2025-08-03 13:01:14,232 - INFO - xdist worker is: gw8
+2025-08-03 13:01:14,232 - INFO - ====== WebDriver manager ======
+2025-08-03 13:01:14,232 - INFO - ====== WebDriver manager ======
+2025-08-03 13:01:14,233 - INFO - ====== WebDriver manager ======
+2025-08-03 13:01:14,232 - INFO - xdist worker is: gw7
+er ======
+2025-08-03 13:01:14,233 - INFO - ====== WebDriver manager ======
+2025-08-03 13:01:14,233 - INFO - ====== WebDriver manager ======
+2025-08-03 13:01:14,233 - INFO - xdist worker is: gw6
+2025-08-03 13:01:14,233 - INFO - ====== WebDriver manager ======
+2025-08-03 13:01:14,233 - INFO - ====== WebDriver manager ======
+2025-08-03 13:01:14,234 - INFO - ====== WebDriver manager ======
+2025-08-03 13:01:16,662 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:16,693 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:16,733 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:16,734 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:16,740 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:16,761 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:16,780 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:16,804 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:16,808 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:16,810 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:16,810 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:16,850 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,415 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,415 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,419 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,461 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,476 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,476 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,526 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,526 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,528 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,690 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,691 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,691 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,694 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,697 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,763 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,841 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,847 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,933 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,939 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:17,939 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:18,669 - INFO - WebDriver version 138.0.7204.183 selected
+2025-08-03 13:01:18,671 - INFO - WebDriver version 138.0.7204.183 selected
+2025-08-03 13:01:18,675 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,675 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,677 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,677 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,692 - INFO - WebDriver version 138.0.7204.183 selected
+2025-08-03 13:01:18,697 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,697 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,698 - INFO - WebDriver version 138.0.7204.183 selected
+2025-08-03 13:01:18,703 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,703 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,790 - INFO - WebDriver version 138.0.7204.183 selected
+2025-08-03 13:01:18,790 - INFO - WebDriver version 138.0.7204.183 selected
+2025-08-03 13:01:18,794 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,794 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,795 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,795 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,822 - INFO - WebDriver version 138.0.7204.183 selected
+2025-08-03 13:01:18,826 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,826 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,980 - INFO - WebDriver version 138.0.7204.183 selected
+2025-08-03 13:01:18,981 - INFO - WebDriver version 138.0.7204.183 selected
+2025-08-03 13:01:18,987 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,987 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,988 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:18,988 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:19,014 - INFO - WebDriver version 138.0.7204.183 selected
+2025-08-03 13:01:19,020 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:19,020 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:19,024 - INFO - WebDriver version 138.0.7204.183 selected
+2025-08-03 13:01:19,025 - INFO - WebDriver version 138.0.7204.183 selected
+2025-08-03 13:01:19,028 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:19,028 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:19,029 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:19,029 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-03 13:01:19,157 - INFO - Driver downloading response is 200
+2025-08-03 13:01:19,159 - INFO - Driver downloading response is 200
+2025-08-03 13:01:19,161 - INFO - Driver downloading response is 200
+2025-08-03 13:01:19,164 - INFO - Driver downloading response is 200
+2025-08-03 13:01:19,175 - INFO - Driver downloading response is 200
+2025-08-03 13:01:19,212 - INFO - Driver downloading response is 200
+2025-08-03 13:01:19,215 - INFO - Driver downloading response is 200
+2025-08-03 13:01:19,223 - INFO - Driver downloading response is 200
+2025-08-03 13:01:19,234 - INFO - Driver downloading response is 200
+2025-08-03 13:01:19,236 - INFO - Driver downloading response is 200
+2025-08-03 13:01:19,240 - INFO - Driver downloading response is 200
+2025-08-03 13:01:19,242 - INFO - Driver downloading response is 200
+2025-08-03 13:01:49,922 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:51,182 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw7\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-03 13:01:52,948 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:53,571 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw2\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-03 13:01:57,418 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:58,048 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw11\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-03 13:01:58,519 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:58,830 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw1\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-03 13:01:59,098 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:01:59,751 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw5\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-03 13:02:00,697 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:01,533 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:01,547 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw3\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-03 13:02:01,984 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw8\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-03 13:02:03,153 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:03,237 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:03,766 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-03 13:02:03,847 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw6\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-03 13:02:04,806 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:05,086 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:08,401 - ERROR - API Links failed: Status code 204 not found in response: Link has responded with staus 201 and status text Created
+assert '204' in 'Link has responded with staus 201 and status text Created'
+ +  where '204' = str(204)
+2025-08-03 13:02:10,483 - ERROR - Checkbox Selection failed: 'list' object has no attribute 'items'
+2025-08-03 13:02:11,576 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw9\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-03 13:02:11,693 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw10\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-03 13:02:12,009 - INFO - xdist worker is: gw7
+2025-08-03 13:02:12,009 - INFO - ====== WebDriver manager ======
+2025-08-03 13:02:13,223 - ERROR - Button Interactions failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa9ba83+63395]
+	GetHandleVerifier [0x0xa9bac4+63460]
+	(No symbol) [0x0x8e2113]
+	(No symbol) [0x0x92a85e]
+	(No symbol) [0x0x92abfb]
+	(No symbol) [0x0x972f92]
+	(No symbol) [0x0x94f3f4]
+	(No symbol) [0x0x9707ba]
+	(No symbol) [0x0x94f1a6]
+	(No symbol) [0x0x91e7b2]
+	(No symbol) [0x0x91f654]
+	GetHandleVerifier [0x0xd18883+2672035]
+	GetHandleVerifier [0x0xd13cba+2652634]
+	GetHandleVerifier [0x0xac2bca+223466]
+	GetHandleVerifier [0x0xab2cb8+158168]
+	GetHandleVerifier [0x0xab978d+185517]
+	GetHandleVerifier [0x0xaa3b78+96408]
+	GetHandleVerifier [0x0xaa3d02+96802]
+	GetHandleVerifier [0x0xa8e90a+9770]
+	BaseThreadInitThunk [0x0x75a15d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-08-03 13:02:13,979 - INFO - xdist worker is: gw3
+2025-08-03 13:02:13,979 - INFO - ====== WebDriver manager ======
+2025-08-03 13:02:14,192 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:14,576 - INFO - Driver has been saved in cache [C:\Users\Doni\.wdm\gw4\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-03 13:02:15,974 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:17,439 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:19,356 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:19,755 - INFO - Driver [C:\Users\Doni\.wdm\gw7\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:02:19,932 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:20,335 - INFO - Driver [C:\Users\Doni\.wdm\gw3\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:02:20,806 - INFO - xdist worker is: gw2
+2025-08-03 13:02:20,806 - INFO - ====== WebDriver manager ======
+2025-08-03 13:02:22,574 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:22,691 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:22,802 - INFO - Driver [C:\Users\Doni\.wdm\gw2\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:02:26,176 - ERROR - Error checking http://the-internet.herokuapp.com/status_codes/500: assert 500 < 400
+ +  where 500 = <Response [500]>.status_code
+2025-08-03 13:02:27,558 - ERROR - Checkbox Selection failed: 'list' object has no attribute 'items'
+2025-08-03 13:02:27,793 - ERROR - API Links failed: Status code 204 not found in response: Link has responded with staus 201 and status text Created
+assert '204' in 'Link has responded with staus 201 and status text Created'
+ +  where '204' = str(204)
+2025-08-03 13:02:28,552 - INFO - xdist worker is: gw0
+2025-08-03 13:02:28,552 - INFO - ====== WebDriver manager ======
+2025-08-03 13:02:29,991 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:30,217 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:30,547 - INFO - Driver [C:\Users\Doni\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:02:30,972 - INFO - xdist worker is: gw3
+2025-08-03 13:02:30,972 - INFO - ====== WebDriver manager ======
+2025-08-03 13:02:31,142 - INFO - xdist worker is: gw7
+2025-08-03 13:02:31,142 - INFO - ====== WebDriver manager ======
+2025-08-03 13:02:31,582 - ERROR - Dynamic Properties failed: Message: 
+
+2025-08-03 13:02:32,446 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:32,542 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:32,548 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:32,673 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:32,677 - INFO - Driver [C:\Users\Doni\.wdm\gw3\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:02:32,803 - INFO - Driver [C:\Users\Doni\.wdm\gw7\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:02:32,821 - ERROR - Partial Selection failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69ba83+63395]
+	GetHandleVerifier [0x0x69bac4+63460]
+	(No symbol) [0x0x4e2113]
+	(No symbol) [0x0x52a85e]
+	(No symbol) [0x0x52abfb]
+	(No symbol) [0x0x572f92]
+	(No symbol) [0x0x54f3f4]
+	(No symbol) [0x0x5707ba]
+	(No symbol) [0x0x54f1a6]
+	(No symbol) [0x0x51e7b2]
+	(No symbol) [0x0x51f654]
+	GetHandleVerifier [0x0x918883+2672035]
+	GetHandleVerifier [0x0x913cba+2652634]
+	GetHandleVerifier [0x0x6c2bca+223466]
+	GetHandleVerifier [0x0x6b2cb8+158168]
+	GetHandleVerifier [0x0x6b978d+185517]
+	GetHandleVerifier [0x0x6a3b78+96408]
+	GetHandleVerifier [0x0x6a3d02+96802]
+	GetHandleVerifier [0x0x68e90a+9770]
+	BaseThreadInitThunk [0x0x75a15d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-08-03 13:02:34,258 - INFO - xdist worker is: gw1
+2025-08-03 13:02:34,258 - INFO - ====== WebDriver manager ======
+2025-08-03 13:02:35,536 - INFO - xdist worker is: gw5
+2025-08-03 13:02:35,536 - INFO - ====== WebDriver manager ======
+2025-08-03 13:02:35,641 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:35,749 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:35,848 - INFO - Driver [C:\Users\Doni\.wdm\gw1\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:02:36,408 - INFO - xdist worker is: gw4
+2025-08-03 13:02:36,408 - INFO - ====== WebDriver manager ======
+2025-08-03 13:02:37,359 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:37,667 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:37,937 - INFO - Driver [C:\Users\Doni\.wdm\gw5\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:02:38,246 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:38,575 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:38,860 - INFO - Driver [C:\Users\Doni\.wdm\gw4\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:02:40,238 - ERROR - Button Interactions failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa9ba83+63395]
+	GetHandleVerifier [0x0xa9bac4+63460]
+	(No symbol) [0x0x8e2113]
+	(No symbol) [0x0x92a85e]
+	(No symbol) [0x0x92abfb]
+	(No symbol) [0x0x972f92]
+	(No symbol) [0x0x94f3f4]
+	(No symbol) [0x0x9707ba]
+	(No symbol) [0x0x94f1a6]
+	(No symbol) [0x0x91e7b2]
+	(No symbol) [0x0x91f654]
+	GetHandleVerifier [0x0xd18883+2672035]
+	GetHandleVerifier [0x0xd13cba+2652634]
+	GetHandleVerifier [0x0xac2bca+223466]
+	GetHandleVerifier [0x0xab2cb8+158168]
+	GetHandleVerifier [0x0xab978d+185517]
+	GetHandleVerifier [0x0xaa3b78+96408]
+	GetHandleVerifier [0x0xaa3d02+96802]
+	GetHandleVerifier [0x0xa8e90a+9770]
+	BaseThreadInitThunk [0x0x75a15d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-08-03 13:02:40,700 - ERROR - Checkbox Selection failed: 'list' object has no attribute 'items'
+2025-08-03 13:02:40,908 - ERROR - API Links failed: Status code 204 not found in response: Link has responded with staus 201 and status text Created
+assert '204' in 'Link has responded with staus 201 and status text Created'
+ +  where '204' = str(204)
+2025-08-03 13:02:43,109 - INFO - xdist worker is: gw3
+2025-08-03 13:02:43,110 - INFO - ====== WebDriver manager ======
+2025-08-03 13:02:43,985 - INFO - xdist worker is: gw2
+2025-08-03 13:02:43,986 - INFO - ====== WebDriver manager ======
+2025-08-03 13:02:44,830 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:45,068 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:45,221 - INFO - Driver [C:\Users\Doni\.wdm\gw3\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:02:45,478 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:45,671 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:45,883 - INFO - Driver [C:\Users\Doni\.wdm\gw2\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:02:53,030 - ERROR - Partial Selection failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69ba83+63395]
+	GetHandleVerifier [0x0x69bac4+63460]
+	(No symbol) [0x0x4e2113]
+	(No symbol) [0x0x52a85e]
+	(No symbol) [0x0x52abfb]
+	(No symbol) [0x0x572f92]
+	(No symbol) [0x0x54f3f4]
+	(No symbol) [0x0x5707ba]
+	(No symbol) [0x0x54f1a6]
+	(No symbol) [0x0x51e7b2]
+	(No symbol) [0x0x51f654]
+	GetHandleVerifier [0x0x918883+2672035]
+	GetHandleVerifier [0x0x913cba+2652634]
+	GetHandleVerifier [0x0x6c2bca+223466]
+	GetHandleVerifier [0x0x6b2cb8+158168]
+	GetHandleVerifier [0x0x6b978d+185517]
+	GetHandleVerifier [0x0x6a3b78+96408]
+	GetHandleVerifier [0x0x6a3d02+96802]
+	GetHandleVerifier [0x0x68e90a+9770]
+	BaseThreadInitThunk [0x0x75a15d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-08-03 13:02:56,477 - INFO - xdist worker is: gw4
+2025-08-03 13:02:56,477 - INFO - ====== WebDriver manager ======
+2025-08-03 13:02:57,733 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:57,837 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:02:57,957 - INFO - Driver [C:\Users\Doni\.wdm\gw4\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:03:04,186 - ERROR - Dynamic Properties failed: Message: 
+
+2025-08-03 13:03:04,412 - ERROR - Button Interactions failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa9ba83+63395]
+	GetHandleVerifier [0x0xa9bac4+63460]
+	(No symbol) [0x0x8e2113]
+	(No symbol) [0x0x92a85e]
+	(No symbol) [0x0x92abfb]
+	(No symbol) [0x0x972f92]
+	(No symbol) [0x0x94f3f4]
+	(No symbol) [0x0x9707ba]
+	(No symbol) [0x0x94f1a6]
+	(No symbol) [0x0x91e7b2]
+	(No symbol) [0x0x91f654]
+	GetHandleVerifier [0x0xd18883+2672035]
+	GetHandleVerifier [0x0xd13cba+2652634]
+	GetHandleVerifier [0x0xac2bca+223466]
+	GetHandleVerifier [0x0xab2cb8+158168]
+	GetHandleVerifier [0x0xab978d+185517]
+	GetHandleVerifier [0x0xaa3b78+96408]
+	GetHandleVerifier [0x0xaa3d02+96802]
+	GetHandleVerifier [0x0xa8e90a+9770]
+	BaseThreadInitThunk [0x0x75a15d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-08-03 13:03:06,516 - ERROR - File Download failed: File not downloaded after 30 seconds
+2025-08-03 13:03:06,906 - INFO - xdist worker is: gw2
+2025-08-03 13:03:06,907 - INFO - ====== WebDriver manager ======
+2025-08-03 13:03:07,813 - INFO - xdist worker is: gw5
+2025-08-03 13:03:07,814 - INFO - ====== WebDriver manager ======
+2025-08-03 13:03:08,172 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:03:08,287 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:03:08,438 - INFO - Driver [C:\Users\Doni\.wdm\gw2\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:03:08,952 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:03:09,082 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:03:09,199 - INFO - Driver [C:\Users\Doni\.wdm\gw5\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:03:10,193 - INFO - xdist worker is: gw0
+2025-08-03 13:03:10,193 - INFO - ====== WebDriver manager ======
+2025-08-03 13:03:11,386 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:03:12,416 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:03:13,619 - INFO - Driver [C:\Users\Doni\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:03:14,661 - ERROR - Partial Selection failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x69ba83+63395]
+	GetHandleVerifier [0x0x69bac4+63460]
+	(No symbol) [0x0x4e2113]
+	(No symbol) [0x0x52a85e]
+	(No symbol) [0x0x52abfb]
+	(No symbol) [0x0x572f92]
+	(No symbol) [0x0x54f3f4]
+	(No symbol) [0x0x5707ba]
+	(No symbol) [0x0x54f1a6]
+	(No symbol) [0x0x51e7b2]
+	(No symbol) [0x0x51f654]
+	GetHandleVerifier [0x0x918883+2672035]
+	GetHandleVerifier [0x0x913cba+2652634]
+	GetHandleVerifier [0x0x6c2bca+223466]
+	GetHandleVerifier [0x0x6b2cb8+158168]
+	GetHandleVerifier [0x0x6b978d+185517]
+	GetHandleVerifier [0x0x6a3b78+96408]
+	GetHandleVerifier [0x0x6a3d02+96802]
+	GetHandleVerifier [0x0x68e90a+9770]
+	BaseThreadInitThunk [0x0x75a15d49+25]
+	RtlInitializeExceptionChain [0x0x772ad1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ad131+561]
+
+2025-08-03 13:03:35,984 - ERROR - Dynamic Properties failed: Message: 
+
+2025-08-03 13:03:48,844 - ERROR - File Download failed: File not downloaded after 30 seconds
+2025-08-03 13:03:52,227 - INFO - xdist worker is: gw0
+2025-08-03 13:03:52,227 - INFO - ====== WebDriver manager ======
+2025-08-03 13:03:53,437 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:03:53,560 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-03 13:03:53,676 - INFO - Driver [C:\Users\Doni\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 13:04:29,297 - ERROR - File Download failed: File not downloaded after 30 seconds
